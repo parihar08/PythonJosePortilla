@@ -52,3 +52,9 @@ print(d2.keys())
 print(d2.values())
 #Return all the dictionary pairings
 print(d2.items())  #Returns a list of tuples
+
+print('****************************************************')
+
+#Grab hello from the dictionary
+nested_dict1 = {'k1':[1,2,{'k2':['this is tricky',{'tough':[1,2,['hello']]}]}]}
+print(nested_dict1['k1'][2]['k2'][1]['tough'][2][0])
