@@ -1,20 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/DataStructureBasics/Tuples.py" line="3" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py" line="56" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d063fd-d621-4064-92c0-bd7de43de7d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructureBasics/IOFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructureBasics/TestFiles/myfile1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonStatements/ControlFlow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonStatements/ForLoops.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonStatements/UsefulOperators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PythonStatements/WhileLoops.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/DecoratorsWithPython.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/ChallengingProblems.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/FinalPractice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/LambdaMapFilter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/NestedStatementsAndScope.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/PracticeProblems1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/PracticeProblems2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generators/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/TicTacToeProject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/Rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Card.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/CardDeckPlayer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Deck.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/GameLogic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Player.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/InstallPackages.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/one.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/two.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/AttributesAndClassKeyword.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/ClassObjectAttributesAndMethods.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/InheritanceAndPolymorphism.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/OOPSChallenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/OOPSPractice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/Special(Magic|Dunder)Methods.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonJosePortilla.iml" afterPath="$PROJECT_DIR$/.idea/PythonJosePortilla.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructureBasics/Dictionaries.py" afterPath="$PROJECT_DIR$/DataStructureBasics/Dictionaries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" afterPath="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/BasicFunction.py" afterPath="$PROJECT_DIR$/Functions/BasicFunction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/FunctionInteractions.py" afterPath="$PROJECT_DIR$/Functions/FunctionInteractions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" afterPath="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/PracticeProblems.py" afterPath="$PROJECT_DIR$/Functions/PracticeProblems.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" afterPath="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" afterPath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,51 +66,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonStatements/ControlFlow.py">
+      <file leaf-file-name="DecoratorsWithPython.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Decorators/DecoratorsWithPython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="2894">
+              <caret line="171" column="18" lean-forward="false" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForLoops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonStatements/ForLoops.py">
+      <file leaf-file-name="GeneratorsWithPython.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generators/GeneratorsWithPython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WhileLoops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonStatements/WhileLoops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsefulOperators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonStatements/UsefulOperators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListComprehensions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonStatements/ListComprehensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,29 +101,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Functions/BasicFunction.py" />
         <option value="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" />
         <option value="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" />
         <option value="$PROJECT_DIR$/Functions/FunctionInteractions.py" />
         <option value="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" />
         <option value="$PROJECT_DIR$/Functions/PracticeProblems.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/StringIndexingAndSlicing.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/StringPropertiesAndMethods.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/StringFormatting.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/Lists.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/Tuples.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/Booleans.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/Sets.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/I/OBasics.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/test.txt" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/myfile1.txt" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/IOFiles.py" />
-        <option value="$PROJECT_DIR$/DataStructureBasics/Dictionaries.py" />
-        <option value="$PROJECT_DIR$/PythonStatements/ForLoops.py" />
-        <option value="$PROJECT_DIR$/PythonStatements/WhileLoops.py" />
-        <option value="$PROJECT_DIR$/PythonStatements/UsefulOperators.py" />
-        <option value="$PROJECT_DIR$/PythonStatements/ControlFlow.py" />
-        <option value="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" />
+        <option value="$PROJECT_DIR$/Functions/PracticeProblems1.py" />
+        <option value="$PROJECT_DIR$/Functions/PracticeProblems2.py" />
+        <option value="$PROJECT_DIR$/Functions/ChallengingProblems.py" />
+        <option value="$PROJECT_DIR$/Functions/LambdaMapFilter.py" />
+        <option value="$PROJECT_DIR$/Functions/NestedStatements.py" />
+        <option value="$PROJECT_DIR$/Functions/NestedStatementsAndScope.py" />
+        <option value="$PROJECT_DIR$/Functions/FinalPractice.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject1/TicTacToeProject.py" />
+        <option value="$PROJECT_DIR$/OOPS/AttributesAndClassKeyword.py" />
+        <option value="$PROJECT_DIR$/OOPS/ClassObjectAttributesAndMethods.py" />
+        <option value="$PROJECT_DIR$/OOPS/InheritanceAndPolymorphism.py" />
+        <option value="$PROJECT_DIR$/OOPS/Special(Magic/Dunder)Methods.py" />
+        <option value="$PROJECT_DIR$/OOPS/Special(Magic|Dunder)Methods.py" />
+        <option value="$PROJECT_DIR$/OOPS/OOPSPractice1.py" />
+        <option value="$PROJECT_DIR$/OOPS/OOPSChallenge.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/InstallPackages.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/CreateModulesAndPackages.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/MyProgram.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/MyModule.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/__nameAnd__main.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/one.py" />
+        <option value="$PROJECT_DIR$/ModulesAndPackages/two.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Test_Cap.py" />
+        <option value="$PROJECT_DIR$/errorsAndExceptionHandling/test_Cap.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" />
+        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/Deck.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/WarGame/Deck.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/WarGame/Card.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/WarGame/Player.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/WarGame/GameLogic.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/WarGame/CardDeckPlayer.py" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/Rules" />
+        <option value="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py" />
+        <option value="$PROJECT_DIR$/Decorators/DecoratorsWithPython.py" />
+        <option value="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" />
       </list>
     </option>
   </component>
@@ -132,13 +171,15 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,24 +187,30 @@
               <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
+              <item name="Generators" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Parihar08/PycharmProjects/PythonJosePortilla/MilestoneProject2/WarGame/Player.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DataStructureBasics/TestFiles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/DataStructureBasics" />
+      <recent name="$PROJECT_DIR$/ModulesAndPackages/SubPackage" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ModulesAndPackages" />
+      <recent name="$PROJECT_DIR$/DataStructureBasics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,16 +244,16 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31600547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31600547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -221,118 +268,129 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Functions/BasicFunction.py">
+    <entry file="file://$PROJECT_DIR$/Functions/PracticeProblems2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/FunctionInteractions.py">
+    <entry file="file://$PROJECT_DIR$/Functions/ChallengingProblems.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="241">
+          <caret line="63" column="49" lean-forward="false" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/NestedStatementsAndScope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonStatements/UsefulOperators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonStatements/ForLoops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonStatements/ListComprehensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="52" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonStatements/ControlFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonStatements/WhileLoops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/ArgsAndKwargs.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1068">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/FinalPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/LambdaMapFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject1/TicTacToeProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="127" column="11" lean-forward="true" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/Special(Magic/Dunder)Methods.py" />
+    <entry file="file://$PROJECT_DIR$/OOPS/AttributesAndClassKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/PracticeProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/FunctionsWithLogic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/PracticeProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/ArgsAndKwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/BasicFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/FunctionInteractions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/StringIndexingAndSlicing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/StringPropertiesAndMethods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/StringFormatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="59" lean-forward="true" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="67" />
-          <folding />
+          <caret line="17" column="33" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -340,31 +398,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/ClassObjectAttributesAndMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPS/InheritanceAndPolymorphism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Booleans.py">
+    <entry file="file://$PROJECT_DIR$/OOPS/Special(Magic|Dunder)Methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="142">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/I/OBasics.py">
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/InstallPackages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/myfile.txt">
+    <entry file="file://$PROJECT_DIR$/OOPS/OOPSChallenge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="228">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -372,19 +441,119 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Sets.py">
+    <entry file="file://$PROJECT_DIR$/OOPS/OOPSPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/MyProgram.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/TestFiles/myfile2.txt">
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Booleans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="52" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModulesAndPackages/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/Deck.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -392,66 +561,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/TestFiles/myfile1.txt">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/WarGame/Player.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="19" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/IOFiles.py">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/WarGame/GameLogic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Dictionaries.py">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/WarGame/Card.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/WhileLoops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/UsefulOperators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ForLoops.py">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/BlackJackGame/Rules">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="59" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ControlFlow.py">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/WarGame/Deck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ListComprehensions.py">
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        <state relative-caret-position="523">
+          <caret line="231" column="42" lean-forward="false" selection-start-line="231" selection-start-column="42" selection-end-line="231" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MilestoneProject2/WarGame/CardDeckPlayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generators/GeneratorsWithPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/DecoratorsWithPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2894">
+          <caret line="171" column="18" lean-forward="false" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
           <folding />
         </state>
       </provider>

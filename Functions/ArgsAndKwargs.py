@@ -18,12 +18,18 @@ print(func(40,60,100,200,500,600))
 
 print('***************************************')
 
+def func1(*args):
+    print(args)
+func1(10,20,30)   #These arguments are treated as tuples inside the function
+
+print('***************************************')
 
 def fun(*args):
     for item in args:
-        print(item)
+        print(item) #Returns all items in args as a tuple
 
 fun(10,20,30,40)
+print('***************************************')
 fun(50,60,70)
 
 '''Keyword arguments'''
@@ -39,24 +45,33 @@ def myfunc1(**kwargs):
         print('I did not find any fruit here')
 
 myfunc1(fruit='apple')
-myfunc1(fruit='apple', veggie='lettuce')
+myfunc1(fruit='orange', veggie='lettuce')
 myfunc1(veggie='lettuce')
 
-'''args and kwargs in combination'''
 print('***************************************')
 
-def func2(*args,**kwargs):
-    print(args)
+def myfunc2(**kwargs):
     print(kwargs)
+
+myfunc2(fruit='orange', veggie='lettuce') #Returns all items in kwargs as a dictionary
+
+print('**************ArgsAndKwargsInCombination*******************')
+
+'''args and kwargs in combination'''
+
+def func2(*args,**kwargs):
+    print(args) #Returns tuple
+    print(kwargs) #Returns dictionary
     print('I would like {} {}'.format(args[0],kwargs['food']))
 
 func2(10,20,30,fruit='orange',food='eggs',animal='dog')
 
+print('***************************************')
 
-def return_even(*list):
+def return_even(*args):
     #placeholder variable
     even_numbers =[]
-    for num in list:
+    for num in args:
         if num%2==0:
             even_numbers.append(num)
         else:
@@ -65,6 +80,7 @@ def return_even(*list):
 
 print(return_even(1,2,3,5,-2,4))
 
+print('***************************************')
 
 #Take string a input in a function and return uppercase even letter and lowercase odd letter
 

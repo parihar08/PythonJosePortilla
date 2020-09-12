@@ -32,13 +32,13 @@ def player_guess():
 
 def check_guess(gamelist,guess):
     if gamelist[guess]=='O':
-        print("Correct!!!")
+        print("Hurray!! You Rock^^^")
+        print(gamelist)
     else:
         print('Better luck next time!!!')
         print(gamelist)
 
-
-#Shuffle
+#Shuffle List
 mixedup_list=shuffle_list(gamelist)
 
 #User Guess

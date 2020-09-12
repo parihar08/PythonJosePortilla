@@ -1,4 +1,4 @@
-stock_prices = [('AAPL',200),('GOOG',400),('MSFT',100)]
+stock_prices = [('AAPL',126.97),('TSLA',407),('FB',295.90),('UBER',34.36)]
 
 for item in stock_prices:
     print(item)
@@ -6,7 +6,8 @@ for item in stock_prices:
 #Tuple Unpacking
 for ticker,price in stock_prices:
     print(ticker)
-    print(price+(0.1*price))
+    print(price+(0.15*price))
+    print('******************************')
 
 #Tuple unpacking with function
 #Find employee of the month who worked maximum hours
@@ -22,7 +23,8 @@ def employee_check(work_hours):
         if hours > current_max:
             current_max =hours
             employee_of_month =employee
-
+        else:
+            pass
     #Return
     return(employee_of_month,current_max)
 

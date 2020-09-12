@@ -1,5 +1,8 @@
 def say_hello(name):
     print("Hello "+name)
+    print("Hello", name)
+    print('Hello his name is {}'.format(name)) #String Formatting
+    print(f'Hello his name is {name}')  # String Literals
 
 
 def say_hello_default(name='Default'):

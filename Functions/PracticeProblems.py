@@ -16,6 +16,7 @@ def func(a,b):
 print(func(2,6))
 print(func(6,7))
 
+print('************************************')
 
 def func1(a,b):
     if a%2 ==0 and b%2 ==0:
@@ -29,6 +30,7 @@ def func1(a,b):
 print(func(2,6))
 print(func(6,7))
 
+print('************************************')
 
 def func2(a,b):
     if a%2 ==0 and b%2 ==0:
@@ -63,6 +65,8 @@ def animal_crackers1(text):
 print(animal_crackers1('Toronto Calgary'))
 print(animal_crackers1('Vancouver victoria'))
 
+print('************************************')
+
 #Given 2 integers, return true if sum of integers is 20 or if one of them is 20. else False
 
 def makes_twenty(a,b):
@@ -78,6 +82,8 @@ def makes_twenty(a,b):
 print(makes_twenty(10,10))
 print(makes_twenty(20,0))
 print(makes_twenty(18,6))
+
+print('************************************')
 
 def makes_twenty1(a,b):
     return (a+b)==20 or a==20 or b==20

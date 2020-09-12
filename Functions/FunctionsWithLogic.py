@@ -17,14 +17,25 @@ def check_even_list(num_list):
     for num in num_list:
         if num % 2==0:
             print('Found even number')
-    else:
-        pass
+        else:
+            pass
     print('Found odd number')
 
 check_even_list([1,2,3,4,5])
 
 
-#return all the even numbers in the list
+def check_even_list1(num_list):
+    for num in num_list:
+        if num % 2==0:
+            return True
+        else:
+            pass
+
+    return False
+
+print(check_even_list1([1,2,3,4,5]))
+
+#Return all the even numbers in the list
 
 def return_even(list):
     #placeholder variable

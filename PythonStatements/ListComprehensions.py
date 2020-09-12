@@ -57,6 +57,8 @@ print(list6)
 list7 = [x*y for x in [2,4,6] for y in[3,5,7]]
 print(list7)
 
+print('*******************************************')
+
 st = 'Create a list of the first letters of every word in this string'
 list8 = [x[0] for x in st.split(' ')]
 print(list8)
