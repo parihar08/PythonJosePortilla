@@ -5,57 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d063fd-d621-4064-92c0-bd7de43de7d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/DecoratorsWithPython.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorators/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/ChallengingProblems.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/FinalPractice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/LambdaMapFilter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/NestedStatementsAndScope.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/PracticeProblems1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/PracticeProblems2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generators/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/TicTacToeProject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/Rules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Card.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/CardDeckPlayer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Deck.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/GameLogic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MilestoneProject2/WarGame/Player.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/InstallPackages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/one.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ModulesAndPackages/two.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/AttributesAndClassKeyword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/ClassObjectAttributesAndMethods.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/InheritanceAndPolymorphism.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/OOPSChallenge.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/OOPSPractice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/Special(Magic|Dunder)Methods.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonJosePortilla.iml" afterPath="$PROJECT_DIR$/.idea/PythonJosePortilla.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/CollectionsModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/DateTimeModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/MathAndRandomModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/ModulesCovered" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/PythonDebugger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/ShutilAndOSModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonModules/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generators/IteratorsAndGeneratorsPractice.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" afterPath="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/BasicFunction.py" afterPath="$PROJECT_DIR$/Functions/BasicFunction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/FunctionInteractions.py" afterPath="$PROJECT_DIR$/Functions/FunctionInteractions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" afterPath="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/PracticeProblems.py" afterPath="$PROJECT_DIR$/Functions/PracticeProblems.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" afterPath="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" afterPath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" afterPath="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,21 +28,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DecoratorsWithPython.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Decorators/DecoratorsWithPython.py">
+      <file leaf-file-name="PythonDebugger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/PythonDebugger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2894">
-              <caret line="171" column="18" lean-forward="false" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
+            <state relative-caret-position="185">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="86" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeneratorsWithPython.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generators/GeneratorsWithPython.py">
+      <file leaf-file-name="RegularExpressions1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressions2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegularExpressions3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1691">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,17 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" />
-        <option value="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" />
-        <option value="$PROJECT_DIR$/Functions/FunctionInteractions.py" />
-        <option value="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" />
-        <option value="$PROJECT_DIR$/Functions/PracticeProblems.py" />
-        <option value="$PROJECT_DIR$/Functions/PracticeProblems1.py" />
-        <option value="$PROJECT_DIR$/Functions/PracticeProblems2.py" />
-        <option value="$PROJECT_DIR$/Functions/ChallengingProblems.py" />
-        <option value="$PROJECT_DIR$/Functions/LambdaMapFilter.py" />
-        <option value="$PROJECT_DIR$/Functions/NestedStatements.py" />
-        <option value="$PROJECT_DIR$/Functions/NestedStatementsAndScope.py" />
         <option value="$PROJECT_DIR$/Functions/FinalPractice.py" />
         <option value="$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py" />
         <option value="$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py" />
@@ -152,6 +123,17 @@
         <option value="$PROJECT_DIR$/MilestoneProject2/BlackJackGame/ClassDeckHandChipsLogic.py" />
         <option value="$PROJECT_DIR$/Decorators/DecoratorsWithPython.py" />
         <option value="$PROJECT_DIR$/Generators/GeneratorsWithPython.py" />
+        <option value="$PROJECT_DIR$/Generators/IteratorsAndGeneratorsPractice.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/ModulesCovered" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/OSModule.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/CollectionsModule.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/ShutilAndOSModule.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/DateTimeModule.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/MathAndRandomModule.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/PythonDebugger.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions2.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions1.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions3.py" />
       </list>
     </option>
   </component>
@@ -190,7 +172,7 @@
             <path>
               <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
-              <item name="Generators" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedPythonModules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,6 +225,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -251,7 +234,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31600547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -274,90 +257,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Functions/PracticeProblems2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/ChallengingProblems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="63" column="49" lean-forward="false" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/NestedStatementsAndScope.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/UsefulOperators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ForLoops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ListComprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="59" column="52" lean-forward="false" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/ControlFlow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonStatements/WhileLoops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/ArgsAndKwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1068">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/FinalPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -437,13 +336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOPS/OOPSPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -499,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -540,7 +425,7 @@
         <state relative-caret-position="342">
           <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -617,7 +502,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generators/IteratorsAndGeneratorsPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorators/DecoratorsWithPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2679">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/ModulesCovered">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generators/GeneratorsWithPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -625,10 +542,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Decorators/DecoratorsWithPython.py">
+    <entry file="file://$PROJECT_DIR$/practice.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2894">
-          <caret line="171" column="18" lean-forward="false" selection-start-line="171" selection-start-column="18" selection-end-line="171" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/practice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/ShutilAndOSModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/CollectionsModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/DateTimeModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/PythonDebugger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/MathAndRandomModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>
