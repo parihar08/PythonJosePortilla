@@ -1,0 +1,30 @@
+Main things we need to understand:
+
+1. Rules of WebScraping
+    - Always seek permission to web scrap
+2. Limitations of WebScraping
+    - Every website is unique, which means every web scraping script is unique
+    - A slight change or update to a website may completely break your web scraping script
+3. Basic HTML and CSS
+
+
+Main Frontend components of a website:
+
+HTML - Used to create basic structure and content of a webpage
+CSS  - Used for design and style of a webpage, where elements are placed and how it looks
+JS   - Used to define the interactive elements of a webpage
+
+When viewing a website, the browser shows us the HTML and some CSS and JS that the website
+sends to our browser
+
+- Python can view these HTML and CSS elements programmatically, and then extract information
+  from the website
+
+--------------------------------------------------------------------
+WebScraping using Python:
+
+Using BeautifulSoup and requests libraries
+
+pip3 install requests
+pip3 install lxml
+pip3 install bs4
