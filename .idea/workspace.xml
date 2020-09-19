@@ -5,55 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d063fd-d621-4064-92c0-bd7de43de7d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImagesWithPython/ImagePracticeExercise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImagesWithPython/WorkingWithImages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImagesWithPython/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/CSVFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFAndCSVPracticeExercise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/Cap.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/ErrorHandling.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/Pylint.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/__init__.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/SubPackage/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/test_Cap.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/ArgsAndKwargs.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/ArgsAndKwargs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/BasicFunction.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/BasicFunction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/ChallengingProblems.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/ChallengingProblems.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/FinalPractice.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/FinalPractice.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/FunctionInteractions.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/FunctionInteractions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/FunctionsWithLogic.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/FunctionsWithLogic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/LambdaMapFilter.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/LambdaMapFilter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/NestedStatementsAndScope.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/NestedStatementsAndScope.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/PracticeProblems.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/PracticeProblems.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/PracticeProblems1.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/PracticeProblems1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/PracticeProblems2.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/PracticeProblems2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Functions/TuplesUnpackingWithFunctions.py" afterPath="$PROJECT_DIR$/2.FunctionsAndMethods/TuplesUnpackingWithFunctions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MilestoneProject1/AcceptingUserInput.py" afterPath="$PROJECT_DIR$/3.MilestoneProject1/AcceptingUserInput.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MilestoneProject1/DisplayingInformation.py" afterPath="$PROJECT_DIR$/3.MilestoneProject1/DisplayingInformation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MilestoneProject1/SimpleUserInteraction.py" afterPath="$PROJECT_DIR$/3.MilestoneProject1/SimpleUserInteraction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MilestoneProject1/TicTacToeProject.py" afterPath="$PROJECT_DIR$/3.MilestoneProject1/TicTacToeProject.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MilestoneProject1/ValidatingUserInput.py" afterPath="$PROJECT_DIR$/3.MilestoneProject1/ValidatingUserInput.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/InstallPackages.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/InstallPackages.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/SomeMainScript.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/SubPackage/MyProgram.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/SubPackage/__init__.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/__init__.py" afterPath="$PROJECT_DIR$/6.ErrorsAndExceptionHandling/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/__nameAnd&quot;__main&quot;.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/one.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/one.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ModulesAndPackages/two.py" afterPath="$PROJECT_DIR$/5.ModulesAndPackages/two.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/AttributesAndClassKeyword.py" afterPath="$PROJECT_DIR$/4.OOPS/AttributesAndClassKeyword.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/ClassObjectAttributesAndMethods.py" afterPath="$PROJECT_DIR$/4.OOPS/ClassObjectAttributesAndMethods.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/InheritanceAndPolymorphism.py" afterPath="$PROJECT_DIR$/4.OOPS/InheritanceAndPolymorphism.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/OOPSChallenge.py" afterPath="$PROJECT_DIR$/4.OOPS/OOPSChallenge.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/OOPSPractice.py" afterPath="$PROJECT_DIR$/4.OOPS/OOPSPractice.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOPS/Special(Magic|Dunder)Methods.py" afterPath="$PROJECT_DIR$/4.OOPS/Special(Magic|Dunder)Methods.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PythonStatements/ControlFlow.py" afterPath="$PROJECT_DIR$/1.PythonStatements/ControlFlow.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PythonStatements/ForLoops.py" afterPath="$PROJECT_DIR$/1.PythonStatements/ForLoops.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PythonStatements/ListComprehensions.py" afterPath="$PROJECT_DIR$/1.PythonStatements/ListComprehensions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PythonStatements/UsefulOperators.py" afterPath="$PROJECT_DIR$/1.PythonStatements/UsefulOperators.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PythonStatements/WhileLoops.py" afterPath="$PROJECT_DIR$/1.PythonStatements/WhileLoops.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedDictionaries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedNumbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedSets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedStrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/ReceivingEmails.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/SearchingEmail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/SendingEmails.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroductionToGUIs/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,55 +28,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CSVFiles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/CSVFiles.py">
+      <file leaf-file-name="ReceivingEmails.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EmailsWithPython/ReceivingEmails.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="53" />
-              <folding />
+            <state relative-caret-position="190">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="e#227#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PDFFiles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFFiles.py">
+      <file leaf-file-name="PythonGUIsWithIPyWidgets.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PDFAndCSVPracticeExercise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFAndCSVPracticeExercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PracticePuzzle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/PracticePuzzle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_the_link.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/Exercise_Files/find_the_link.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="418">
+              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <folding>
+                <element signature="e#181#230#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,16 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ModulesAndPackages/MyModule.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/SubPackage/MyProgram.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/SomeMainScript.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/__nameAnd__main.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/__nameAnd&quot;__main&quot;.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/one.py" />
-        <option value="$PROJECT_DIR$/ModulesAndPackages/two.py" />
-        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorHandling.py" />
-        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/ErrorsAndExceptionsPractice.py" />
-        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Pylint.py" />
         <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Test_Cap.py" />
         <option value="$PROJECT_DIR$/errorsAndExceptionHandling/test_Cap.py" />
         <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" />
@@ -184,6 +108,16 @@
         <option value="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/WorkingWithCSVFiles.py" />
         <option value="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFFiles.py" />
         <option value="$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFAndCSVPracticeExercise.py" />
+        <option value="$PROJECT_DIR$/EmailsWithPython/SearchingEmail" />
+        <option value="$PROJECT_DIR$/EmailsWithPython/SendingEmails.py" />
+        <option value="$PROJECT_DIR$/EmailsWithPython/ReceivingEmails.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedNumbers.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedStrings.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedSets.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedDictionaries.py" />
+        <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedLists.py" />
+        <option value="$PROJECT_DIR$/IntroductionToGUIs/InteractFunctionalityWithGUIs.py" />
+        <option value="$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py" />
       </list>
     </option>
   </component>
@@ -215,22 +149,6 @@
             <path>
               <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
-              <item name="AdvancedPythonModules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
-              <item name="PDFAndSpreadsheetCSVFiles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
-              <item name="PDFAndSpreadsheetCSVFiles" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise_Files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,70 +236,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/DateTimeModule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/MathAndRandomModule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/PythonDebugger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/ZipUnzipDemo/extracted_content/AdvancedPythonModules/ZipUnzipDemo/file1.txt" />
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipUnzipDemo/file1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/RegularExpressions2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/ZippingAndUnzippingFiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.FunctionsAndMethods/LambdaMapFilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-965">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,6 +479,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFAndCSVPracticeExercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/PracticePuzzle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7">
@@ -633,11 +495,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PDFAndSpreadsheetCSVFiles/PDFAndCSVPracticeExercise.py">
+    <entry file="file://$PROJECT_DIR$/EmailsWithPython/SearchingEmail">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        <state relative-caret-position="-344">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmailsWithPython/SendingEmails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureBasics/Dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedDictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="29" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmailsWithPython/ReceivingEmails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#227#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#181#230#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
