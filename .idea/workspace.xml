@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20d063fd-d621-4064-92c0-bd7de43de7d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedDictionaries.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedLists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedNumbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedSets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedStrings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/ReceivingEmails.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/SearchingEmail" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/SendingEmails.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EmailsWithPython/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntroductionToGUIs/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.PythonStatements/ControlFlow.py" afterPath="$PROJECT_DIR$/1.PythonStatements/ControlFlow.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythonGUIsWithIPyWidgets.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PythonGUIsWithIPyWidgets.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
@@ -48,6 +37,16 @@
               <folding>
                 <element signature="e#181#230#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControlFlow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.PythonStatements/ControlFlow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Test_Cap.py" />
         <option value="$PROJECT_DIR$/errorsAndExceptionHandling/test_Cap.py" />
         <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/test_Cap.py" />
         <option value="$PROJECT_DIR$/ErrorsAndExceptionHandling/Cap.py" />
@@ -118,6 +116,7 @@
         <option value="$PROJECT_DIR$/AdvancedPythonObjectsAndDataStructures/AdvancedLists.py" />
         <option value="$PROJECT_DIR$/IntroductionToGUIs/InteractFunctionalityWithGUIs.py" />
         <option value="$PROJECT_DIR$/IntroductionToGUIs/PythonGUIsWithIPyWidgets.py" />
+        <option value="$PROJECT_DIR$/1.PythonStatements/ControlFlow.py" />
       </list>
     </option>
   </component>
@@ -149,6 +148,11 @@
             <path>
               <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonJosePortilla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonJosePortilla" type="462c0819:PsiDirectoryNode" />
+              <item name="1.PythonStatements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,13 +240,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdvancedPythonModules/CollectionsModule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -576,6 +573,14 @@
           <folding>
             <element signature="e#181#230#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.PythonStatements/ControlFlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
